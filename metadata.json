@@ -1,0 +1,6 @@
+{
+  "name": "Guacharaca Service Suite",
+  "description": "Prototipo de suite técnica interactiva para Linux enfocada en reparación forense, borrado de FRP y detección EDL 9008 con sincronización Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
